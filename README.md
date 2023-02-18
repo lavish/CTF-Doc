@@ -1,7 +1,7 @@
 A/D CTF Service Guidelines
 ==========================
 
-This repository contains the guidelines for the development of A/D CTF services on frameworks compatible with the [ECSC 2022 Gameserver](https://github.com/ECSC2022/ctf-gameserver). The ECSC 2022 Gameserver is based on the [FAUST framework](https://github.com/fausecteam/ctf-gameserver, but it has been extended to introduce additional features, in particular the support for multiple flag stores per service and improved checker status messages.
+This repository contains the guidelines for the development of A/D CTF services on frameworks compatible with the [ECSC 2022 Gameserver](https://github.com/ECSC2022/ctf-gameserver). The ECSC 2022 Gameserver is based on the [FAUST framework](https://github.com/fausecteam/ctf-gameserver), but it has been extended to introduce additional features, in particular the support for multiple flag stores per service and improved checker status messages.
 
 These guidelines have been created during the development of the [ECSC 2022](https://ad.ecsc2022.eu/) A/D CTF and improved for the course [Attacks and Defenses in Computer Security (192.111)](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?dswid=1954&dsrid=447&courseNr=192111) at [TU Wien](https://www.tuwien.at/). They are based on the experience of the organizers and they are intended to help the CTF developers to create high-quality services that can be easily integrated into the ECSC 2022 Gameserver.
 
