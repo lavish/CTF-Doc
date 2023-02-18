@@ -1,5 +1,6 @@
 Service Name
 ============
+Check the comments in this file for additional information!
 
 [comment]: # (The service name shouldn't be longer than 20 chars)
 
